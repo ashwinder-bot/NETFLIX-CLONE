@@ -1,0 +1,2 @@
+# NETFLIX CLONE
+ his project is a clone of Netflix's homepage, created using HTML and CSS. It replicates the sleek design of the platform, focusing on responsive layouts and clean UI elements.  Features: Responsive design for desktop and mobile. Navigation bar and movie banners inspired by Netflix. What's Next: Adding JavaScript for:  Dynamic carousels. Video previews on hover. Functional search bar. This project is a practice in front-end development and is open for suggestions and improvements.
